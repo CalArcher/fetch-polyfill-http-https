@@ -15,7 +15,7 @@ This is taken from gjuoun's original fetch nodejs polyfill and modified to allow
 
 &nbsp;
 
-Recommended to use a name like _fetch for your function, so that it wont get confused for any native fetch funtions as shown below
+Recommended to use a name like _fetch, so that it won't get confused for any native fetch funtion as shown below
 
 &nbsp;
 
